@@ -20,7 +20,7 @@ RUN ./install.sh
 ## Usage 
 Create a docker container and use bash to enter
 ```sh
-$ docker run -it ymcdull/emojicode:0.1 bash 
+$ docker run -it ymcdull/emojicode:latest bash 
 ```
 Already inside of the container as the root identity, enter the test cases directory
 ```sh
