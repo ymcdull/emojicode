@@ -2,6 +2,8 @@
 - This repository is built based on emojicode: www.emojicode.org
 - The Github URL: https://github.com/emojicode/emojicode
 
+emojicode is kind of like C language. We first need to write a source file with ".emojic" format, then use "emojicodec" to compile that file to output a ".emojib" file, which can be executed by "emojicode" command. 
+
 ## Dockerfile
 ```sh
 FROM ubuntu
